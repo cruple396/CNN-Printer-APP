@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CNN_App.Views.UserInfo">
+    <ContentPage.Content>
+
+        <StackLayout Margin="20,35,20,20"> 
+         
+                <Entry x:Name="txtUsername" Placeholder="Username Update and Delete"></Entry>  
+                <Entry x:Name="txtAdmin" Placeholder="Type 'Admin' to give the admin role "></Entry>  
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">    
+                </StackLayout>  
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">  
+                    <Button x:Name="btnUpdate" WidthRequest="200" Text="Update" Clicked="BtnUpdate_Clicked"/>  
+                    <Button x:Name="btnDelete" WidthRequest="200" Text="Delete" Clicked="BtnDelete_Clicked" />  
+                </StackLayout>  
+                <CollectionView x:Name="user" SelectionMode="Single" SelectionChanged="user_SelectionChanged" >  
+                    <CollectionView.ItemTemplate>  
+                        <DataTemplate>
+                        <StackLayout>
+                       
+                            <Label Text="{Binding Username}" FontSize="Medium"/>
+                            <Label Margin="0,-10,0,10" Text="{Binding Admin}" TextColor="red" FontSize="Small"/> 
+                 
+
+                        </StackLayout>
+
+                    </DataTemplate>
+                    </CollectionView.ItemTemplate>  
+                </CollectionView>  
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

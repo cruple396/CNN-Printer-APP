@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CNN_App.Views.OrderPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Button VerticalOptions="Center"
+                Text="Delete Order" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20" Clicked="Button_Clicked"/>
+
+            <CollectionView x:Name="order" SelectionMode="Single" SelectionChanged="order_SelectionChanged">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+
+                       
+                             <StackLayout>
+                       
+                            <Label Text="Order Number:" FontSize="Medium"/>
+                            <Label Margin="0,-10,0,10" Text="{Binding randNum}" TextColor="red" FontSize="Small"/> 
+                 
+
+                        </StackLayout>
+
+
+
+            
+
+
+                    </DataTemplate>
+                   
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

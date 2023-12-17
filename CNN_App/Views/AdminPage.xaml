@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CNN_App.Views.AdminPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Logout" Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Padding="20" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+            <Label Text="Ace Printer Admin Page"
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="Medium" FontAttributes="Bold"></Label>
+             
+            <Button VerticalOptions="Center"
+                Text="Printer Database" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20" Clicked="Button_Clicked2"/>
+
+            <Button VerticalOptions="Center"
+                Text="User Database" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20" Clicked="Button_Clicked3"/>
+            <Button VerticalOptions="Center"
+                Text="Orders" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20" Clicked="Button_Clicked"/>
+
+           
+            
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

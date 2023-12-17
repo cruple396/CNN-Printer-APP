@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CNN_App.Views.AdminLog">
+    <ContentPage.Content>
+<StackLayout Padding="40"
+                     VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+            <Image Source="CNN"
+                   WidthRequest="250" HeightRequest="250">
+            </Image>
+
+            <Entry  Placeholder="CR" x:Name="userNameEntry"
+                   TextColor="Black"
+                   PlaceholderColor="Gray">
+            </Entry>
+
+            <Entry  Placeholder="123" x:Name="passwordEntry"
+                   IsPassword="True"
+                   TextColor="Black" PlaceholderColor="Gray">
+
+            </Entry>
+            <Button VerticalOptions="Center"
+                Text="Login" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20" Clicked="Handle_Clicked"></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

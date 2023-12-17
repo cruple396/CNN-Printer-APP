@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CNN_App.Views.ViewPrinter">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                
+            </Grid.ColumnDefinitions>
+            
+            <Image x:Name="url" Source="{Binding ImageUrl}" Grid.Row="0" Grid.ColumnSpan="3" />
+
+            
+            <Label x:Name="name" Text="{Binding Name}" Grid.Row="1" Grid.Column="0"/>
+
+            <Label Text="Brand of Printer: " Grid.Row="2" Grid.Column="0"/>
+            <Label x:Name="brand" Text="{Binding Brand}" Grid.Row="2" Grid.Column="1"/>
+
+            <Label Text="Type of Printer: " Grid.Row="3"/>
+            <Label x:Name="type" Text="{Binding Type}" Grid.Row="3" Grid.Column="1"/>
+
+            <Label Text="Price of Printer: $" Grid.Row="4"/>
+            <Label x:Name="price" Text="{Binding Price}" Grid.Row="4" Grid.Column="1"/>
+
+            
+            <Label x:Name="detail" Text="{Binding Detail}" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" />
+            
+
+           <Button VerticalOptions="Center"
+                Text="Add to Cart" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20" Clicked="Button_Clicked" Grid.Row="6" Grid.ColumnSpan="3"/>
+
+
+        
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
+

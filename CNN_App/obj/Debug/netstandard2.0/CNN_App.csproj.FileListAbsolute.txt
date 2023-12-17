@@ -1,0 +1,55 @@
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/CNN_App.deps.json
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/CNN_App.dll
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/ref/CNN_App.dll
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/CNN_App.pdb
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.csproj.AssemblyReference.cache
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/AdminPage.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/LoginUser.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/PrinterInfo.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/RegPage.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/UserInfo.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.AssemblyInfoInputs.cache
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.AssemblyInfo.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.csproj.CoreCompileInputs.cache
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.dll
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/ref/CNN_App.dll
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.pdb
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/AddPrinter.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/EditPrinter.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/ProductPage.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/AdminLog.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/ViewPrinter.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/Cart.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/Checkout.xaml.g.cs
+/Users/cs4204_fa22/Projects/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/OrderPage.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/CNN_App.deps.json
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/CNN_App.dll
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/bin/Debug/netstandard2.0/CNN_App.pdb
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.csproj.AssemblyReference.cache
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/AddPrinter.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/AdminLog.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/AdminPage.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/Cart.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/Checkout.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/EditPrinter.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/LoginUser.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/OrderPage.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/PrinterInfo.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/ProductPage.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/RegPage.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/UserInfo.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/Views/ViewPrinter.xaml.g.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.AssemblyInfoInputs.cache
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.AssemblyInfo.cs
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.csproj.CoreCompileInputs.cache
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.dll
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/refint/CNN_App.dll
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/CNN_App.pdb
+/Volumes/ESD-USB/Software Engineering/Completed/CNN_App/CNN_App/CNN_App/obj/Debug/netstandard2.0/ref/CNN_App.dll

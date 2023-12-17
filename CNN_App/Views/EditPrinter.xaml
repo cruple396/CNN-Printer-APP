@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="CNN_App.Views.EditPrinter">
+    <ContentPage.Content>
+                <StackLayout Margin="20,35,20,20">
+            <Label Text="Printer Name"></Label>
+            <Entry x:Name="txtPname" Text="{Binding Name}" Placeholder="Printer name"></Entry>
+
+            <Label Text="Printer Brand"></Label>
+            <Entry x:Name="txtPbrand" Text="{Binding Brand} " Placeholder="Printer brand "></Entry>
+
+            <Label Text="Printer Type"></Label>
+            <Entry x:Name="txtPtype" Text="{Binding Type}" Placeholder="Printer type "></Entry>
+
+            <Label Text="Printer Price"></Label>
+            <Entry x:Name="txtPrice" Text="{Binding Price}" Placeholder="Printer price "></Entry>
+
+            <Label Text="Printer Detail"></Label>
+            <Entry x:Name="txtPdetail" Text="{Binding Detail}" Placeholder="Printer detail "></Entry>
+
+            <Label Text="Image URL"></Label>
+            <Entry x:Name="txtURL" Text="{Binding ImageUrl}" Placeholder="example.png"></Entry>
+
+            <Button
+                VerticalOptions="Center"
+                Text="Save Changes" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20"
+                Clicked="Button_Clicked">
+            </Button>
+            <Button
+                VerticalOptions="Center"
+                Text="Delete Printer" TextColor="Black"
+                BackgroundColor="Transparent" BorderColor="black"
+                BorderWidth="1.5" CornerRadius="20"
+                Clicked="Button_Clicked_1">
+            </Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
